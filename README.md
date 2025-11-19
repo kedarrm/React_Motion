@@ -1,3 +1,38 @@
+# 🚀 Framer Motion Fundamentals & Advanced Animations  
+A complete collection of my Framer Motion learning journey — from fundamentals to advanced animation patterns — built using **React**, **Next.js**, and **Tailwind CSS**.
+
+## ✨ Features
+
+### 🎯 Framer Motion Fundamentals
+- Motion components (`motion.div`, `motion.span`, etc.)
+- `initial`, `animate`, `exit` props
+- Transition controls & keyframes
+- Gestures: `whileHover`, `whileTap`, `drag`
+
+### ⚡ Intermediate Techniques
+- Variants & staggered animations  
+- Scroll-based reveal animations  
+- Layout animations  
+- Shared element transitions  
+
+### 🔥 Advanced Motion Patterns
+- 3D Tilt Card  
+- Background Ripple Effects  
+- Parallax effects  
+- Page transitions using Next.js  
+- Micro-interactions for UI elements  
+- Complex sequenced animations  
+
+---
+
+## 🛠️ Tech Stack
+- **Next.js 15**
+- **React 19**
+- **Tailwind CSS v4**
+- **Framer Motion v11**
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
